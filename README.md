@@ -11,4 +11,4 @@ The white player first gives the position of the piece he wishes to move, then t
 
 ## Future
 
-I did this project to refamiliarize myself with the C++ language, which I hadn't worked with for a long time, so I didn't feel the need to implement a graphical interface. I may implement one in the near future, so I wrote the code in such a way that it wouldn't be complicated to add.
+I did this project to refamiliarize myself with the C++ language, which I hadn't worked with for a long time, so I didn't feel the need to implement a graphical interface. I may implement one in the near future, so I wrote the code in such a way that it wouldn't be complicated to add. 
